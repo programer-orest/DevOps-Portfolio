@@ -4,6 +4,7 @@ A structured collection of sub-projects illustrating key DevOps practices, inclu
 containerization, Kubernetes with Helm, and Terraform-based Infrastructure as Code.
 
 **Project Structure:**
+
 **[Terraform_Azure_Infrastructure_Deployment](https://github.com/programer-orest/Azure_Infrastructure_Deployment_with_Terraform)**
 
 This repository includes an Infrastructure as Code (IaC) project implemented with Terraform, deployed on Azure.
